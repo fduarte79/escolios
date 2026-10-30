@@ -1,2 +1,3 @@
-# escolios
-Minhas notas de estudos
+# Minhas notas de estudos
+
+# Estatística
